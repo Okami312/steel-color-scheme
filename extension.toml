@@ -1,0 +1,7 @@
+id = "steel"
+name = "Steel"
+version = "0.0.1"
+schema_version = 1
+authors = ["Okami312"]
+description = "A personal theme inspired by Mistral Le Chonk ₍˄·͈༝·͈˄₎◞"
+repository = "https://github.com/your-name/my-zed-extension"
